@@ -64,7 +64,7 @@ const App = () => {
           className="border p-2 rounded w-64 mb-4"
         />
 
-        <button type="submit" className="bg-blue-600 text-white px-6 py-2 rounded">
+        <button type="submit" className="bg-blue-600 hover:bg-blue-500 cursor-pointer text-white px-6 py-2 rounded">
           Calculate
         </button>
       </form>
